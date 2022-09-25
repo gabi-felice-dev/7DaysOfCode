@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ewt9XhIIGEWfhGHp6GXKNVvwxxb9tPlYqPsywQZcfVc1qHFRgE01OTR4b1et8ltBHvvNYUxB075HW/EcizGCaw==",
+  "dgSpecHash": "cjvDoSXjLduOE4sAErtjPiPUkrOsz+igLSEVoeeMJWpfHgdYxJUzHifesZ0T+rfSA6UOTIpTgO08Dw3DgG9PWA==",
   "success": true,
-  "projectFilePath": "C:\\Git\\7DiasOfCode\\Tamagotchi\\Tamagotchi\\Tamagotchi.csproj",
+  "projectFilePath": "C:\\Git\\7DaysOfCode\\Tamagotchi\\Tamagotchi\\Tamagotchi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
   ],
